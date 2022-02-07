@@ -1,0 +1,65 @@
+# Login
+body {
+     background-color: antiquewhite;
+ }
+
+ .card {
+     box-shadow: 1px 1px 5px rgb(61, 58, 58);
+     background-color: rgb(185, 14, 14);
+     border-radius: 5px;
+     padding: 30px;
+
+
+ }
+
+ .form {
+     width: 400px;
+     margin: auto;
+     padding-top: 40px;
+ }
+
+ .card-top {
+     text-align: center;
+ }
+
+ .card-grupo {
+     margin-bottom: 10px;
+ }
+
+ .card-grupo > label {
+     display: block;
+     width: 100px;
+     color: bisque;
+ }
+
+ .card-grupo > input {
+     border-radius: 5px;
+     outline: 0;
+     width: 100%;
+     height: 25px;
+     padding: 5px;
+ }
+ 
+ .card-grupo > button {
+     background-image: linear-gradient(to left, red,blue);
+     width: 100%;
+     border-radius: 30px;
+     padding: 15px;
+     color: white;
+     border: 0px;
+     outline: 0;
+ }
+
+ .img {
+     border-radius: 50px;
+     width: 100px;
+     box-shadow: 10px 1px 5px rgb(75, 70, 70);
+ }
+
+ .titulo{
+     color: wheat;
+ }
+
+ .card-grupo > a {
+     color: azure;
+ }
